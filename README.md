@@ -1,17 +1,17 @@
 # An Analysis of Kickstarter Campaigns for Louise
 ---
 
-##Statistics
+## Statistics
 ---
 Something about how Theater and Plays are the best
 ![Outcomes-Launch-Date.png](C:\Users\katie\OneDrive\Data Analytics Boot Camp\Projects\Module 1 - Excel\Outcomes-Launch-Date.png)
 
 ---
-##Dates
+## Dates
 ---
 Something about how certain months are better for this sort of project
 ---
-##Location
+## Location
 ---
 Something something Edinburgh
 ---
